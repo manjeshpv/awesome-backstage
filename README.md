@@ -1,5 +1,7 @@
 # awesome-backstage
 
+Sandbox: https://www.gitpod.io/
+
 ## Docs helpful for decision making
 - [Why](https://github.com/kosli-dev/backstage-guide/blob/main/evaluating-backstage-1-why-backstage.md) Backstage
 - [How backstage works](https://github.com/kosli-dev/backstage-guide/blob/main/evaluating-backstage-2-how-backstage-works.md)
