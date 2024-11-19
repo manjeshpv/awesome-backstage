@@ -20,7 +20,10 @@
 - https://github.com/vmanitripathi/entity-examples/tree/master - catalog examples
 - https://github.com/raf-backstage-demo/backstage-app-demo/blob/main/Dockerfile - dockerfile
 - https://github.com/khuedoan/backstage/blob/master/catalog-info.yaml - catalog demo
+- https://github.com/piomin/backstage-templates/tree/master/templates - Spring boot openshift and k8s template
 
+
+### Image
 ![alt text](https://user-images.githubusercontent.com/27996771/180509223-ac96970f-01ae-4ae0-bcda-fe911ce232f6.png "Title")
 
 
