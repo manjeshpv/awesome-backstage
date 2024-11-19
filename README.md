@@ -7,6 +7,7 @@ Sandbox: https://www.gitpod.io/
 - [How backstage works](https://github.com/kosli-dev/backstage-guide/blob/main/evaluating-backstage-2-how-backstage-works.md)
 - [Competitors: OpsLevel, Port, Cortex](https://github.com/kosli-dev/backstage-guide/blob/main/evaluating-backstage-backstage-vs-competitors.md)
 - [Getting Started](https://github.com/kosli-dev/backstage-guide/blob/main/implementing-backstage-1-getting-started-with-backstage-cli.md)
+- Blog: https://www.kosli.com/blog/tags/backstage/
 
 
 ## Plugins & Templates
