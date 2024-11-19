@@ -1,6 +1,8 @@
 # awesome-backstage
 
 Sandbox: https://www.gitpod.io/
+Playground: https://github.com/adityasinghal26/backstage-playground
+Argo: https://github.com/dirien/backstage-demo
 
 ## Docs helpful for decision making
 - [Why](https://github.com/kosli-dev/backstage-guide/blob/main/evaluating-backstage-1-why-backstage.md) Backstage
@@ -31,13 +33,16 @@ Sandbox: https://www.gitpod.io/
 - https://github.com/raf-backstage-demo/backstage-app-demo/blob/main/Dockerfile - dockerfile
 - https://github.com/khuedoan/backstage/blob/master/catalog-info.yaml - catalog demo
 - https://github.com/piomin/backstage-templates/tree/master/templates - Spring boot openshift and k8s template
+- https://github.com/toptechevangelist/awesome-platform-engineering
+- https://github.com/contract-first-idp/software-templates/tree/main/templates - Spring Boot API Producer
+- https://github.com/backstage-workshop/backstage-workshop - colima remote development
 
 
 ### Image
 ![alt text](https://user-images.githubusercontent.com/27996771/180509223-ac96970f-01ae-4ae0-bcda-fe911ce232f6.png "Title")
 
 
-
-
-Others:
+### Others:
 - https://github.com/cloud-carbon-footprint/ccf-backstage-plugin - Carbon Footprint
+- https://github.com/seifrajhi/awesome-platform-engineering-tools
+- https://github.com/axem-solutions/dem
