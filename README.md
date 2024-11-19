@@ -38,6 +38,8 @@
 - https://github.com/toptechevangelist/awesome-platform-engineering
 - https://github.com/contract-first-idp/software-templates/tree/main/templates - Spring Boot API Producer
 - https://github.com/backstage-workshop/backstage-workshop - colima remote development
+- https://github.com/q-shift/backstage-playground - Quarkus, DevTools
+- https://github.com/suxess-it/backstage-plugin-kubecost - Plugin Kubecost
 
 
 ### Image
