@@ -18,6 +18,11 @@
 - https://github.com/sparkfabrik/backstage-terraform - terraform
 - https://github.com/dynatrace-perfclinics/platform-engineering-demo - argo, open feature, dynatrace
 - https://github.com/vmanitripathi/entity-examples/tree/master - catalog examples
+- https://github.com/raf-backstage-demo/backstage-app-demo/blob/main/Dockerfile - dockerfile
+- https://github.com/khuedoan/backstage/blob/master/catalog-info.yaml - catalog demo
+
+![alt text](https://user-images.githubusercontent.com/27996771/180509223-ac96970f-01ae-4ae0-bcda-fe911ce232f6.png "Title")
+
 
 
 
