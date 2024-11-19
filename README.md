@@ -1,8 +1,10 @@
 # awesome-backstage
 
-Sandbox: https://www.gitpod.io/
-Playground: https://github.com/adityasinghal26/backstage-playground
-Argo: https://github.com/dirien/backstage-demo
+- Sandbox: https://www.gitpod.io/
+- Playground: https://github.com/adityasinghal26/backstage-playground
+- Argo: https://github.com/dirien/backstage-demo
+- Blog - https://www.kosli.com/blog/backstage-developer-portal-content-hub/
+- Research - https://www.kosli.com/blog/evaluating-backstage-1-why-backstage/
 
 ## Docs helpful for decision making
 - [Why](https://github.com/kosli-dev/backstage-guide/blob/main/evaluating-backstage-1-why-backstage.md) Backstage
