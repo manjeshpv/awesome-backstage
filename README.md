@@ -1,6 +1,6 @@
 # awesome-backstage
 
-- Sandbox: https://www.gitpod.io/
+- Sandbox: https://www.gitpod.io/ & [Backstage Plugin](https://www.gitpod.io/docs/integrations/backstage)
 - Playground: https://github.com/adityasinghal26/backstage-playground
 - Argo: https://github.com/dirien/backstage-demo
 - Blog - https://www.kosli.com/blog/backstage-developer-portal-content-hub/
